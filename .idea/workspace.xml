@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36fac7a5-94b8-4aa8-95b7-e62265f25015" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>priv</find>
+      <find>ban</find>
+      <find>noword</find>
+      <find>GETOUT</find>
+      <find>GETOU</find>
+      <find>user.</find>
+      <find>user.to</find>
+      <find>censor</find>
+      <find>get</find>
+      <find>getout_room</find>
+      <find>getoutroom</find>
+      <find>out</find>
+      <find>logout</find>
+      <find>client.user.equals(this.room.getMaster()) &amp;&amp; !(client.user.getAdmin()</find>
+      <find>client.user.getAdmin() == true || client.user.equals(this.room.getMaster()</find>
+      <find>BOOM</find>
+      <find>roomlist</find>
+      <find>boom</find>
+      <find>getout</find>
+      <find>getInRoom</find>
+      <find>/System(System)</find>
+      <find>block</find>
+      <find>kick</find>
+      <find>blockuser</find>
+      <find>getin</find>
+      <find>tryin</find>
+      <find>list</find>
+      <find>room</find>
+      <find>a</find>
+      <find>ANNOUNCEROOM</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectId" id="1PcyIPJ4UgpuzMIXPFnKIOikSuw" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Taejun\Java\Personal_Project_07\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="Personal_Project_07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="Personal_Project_07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36fac7a5-94b8-4aa8-95b7-e62265f25015" name="Default Changelist" comment="" />
+      <created>1565743039178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565743039178</updated>
+      <workItem from="1565743041691" duration="27610000" />
+      <workItem from="1566176321773" duration="1097000" />
+      <workItem from="1566180659585" duration="1266000" />
+      <workItem from="1566185293136" duration="2000" />
+      <workItem from="1566187604408" duration="807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
